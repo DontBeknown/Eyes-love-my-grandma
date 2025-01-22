@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 3d21515c677c25148b91e2ba62bc9ae5
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 577cba7d669397f4d95a4b32bc71936b
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 9c8b9c8fa2026cb428776fa1e34f005a
+  - enabled: 1
+    path: Assets/Scenes/MIniMap.unity
+    guid: 2936690cffa6454489ef3e93d49af162
+  - enabled: 1
+    path: Assets/Scenes/Album.unity
+    guid: 48020bf6c4a62df4dba821195225e606
+  - enabled: 1
+    path: Assets/Scenes/LookAround.unity
+    guid: a02023048f16324469883eb4e84be8ed
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: ed58f38542256824aaa03848ac6b7d9d
+  - enabled: 1
+    path: Assets/Scenes/Cooking.unity
+    guid: 177d741c62a9d8641942f315c8c545ce
+  - enabled: 1
+    path: Assets/Scenes/VrEyeRangeShort.unity
+    guid: a95cdd16926c2294eb3b2bc46af9fcfc
+  - enabled: 1
+    path: Assets/Scenes/VrEyeRangeLong.unity
+    guid: 9b3ae66ed0bb59048a6bb8dafa6890a2
+  - enabled: 1
+    path: Assets/Scenes/Icon.unity
+    guid: bd54e316473d47b489e93a23e5687d4c
+  - enabled: 1
+    path: Assets/Scenes/Calender.unity
+    guid: ab3ba1d64964b5745be69d4c2cb703bb
+  - enabled: 1
+    path: Assets/Scenes/WatchHand.unity
+    guid: 0b61e40df556e64408afb7af08c59144
+  - enabled: 1
+    path: Assets/Scenes/IDCard.unity
+    guid: dba6c16b7813e71408b85425d5baf88f
+  - enabled: 1
+    path: Assets/Scenes/ID-Card2.unity
+    guid: 18656cdf21b0e9a4085925fe8b559acc
+  - enabled: 1
+    path: Assets/Scenes/DryEye.unity
+    guid: defb3c616621620428ed4cfc563846b3
+  - enabled: 1
+    path: Assets/Scenes/LightUpDown.unity
+    guid: 74cf01f4b50b8fb4c85c50ec47f5a6df
+  - enabled: 1
+    path: Assets/Scenes/MiniGame.unity
+    guid: 24bb880c39a855c4abf7903d8a20dcc9
+  - enabled: 1
+    path: Assets/Scenes/MoveAbleFlash.unity
+    guid: 8ca3e602fe10b464d99f7cfa00a67591
+  - enabled: 1
+    path: Assets/Scenes/Open-CloseEYE.unity
+    guid: 041e708e536ba7a49a629b626d1e243d
+  - enabled: 1
+    path: Assets/Scenes/Test.unity
+    guid: 57cb7ef05a1b2a04881530ec9e29e0e5
+  - enabled: 1
+    path: Assets/Scenes/SwipeSwipe.unity
+    guid: e8dc20a10126a824a8e3652161f14f7c
+  - enabled: 1
+    path: Assets/Scenes/VRMode.unity
+    guid: 1b7febfaffe601d4bb54e6db5a4b8e1b
+  - enabled: 1
+    path: Assets/Scenes/ZoomINOUT.unity
+    guid: 99b960339b36b7b4f90a48ab30c99f9c
+  m_configObjects: {}
